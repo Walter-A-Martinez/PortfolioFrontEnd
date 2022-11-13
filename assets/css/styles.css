@@ -1,0 +1,37 @@
+
+body {
+    background-color: rgb(195, 219, 192);
+    color: rgb(0, 0, 0);
+}
+
+#RedesSociales {
+    text-align: center;
+    margin: auto;
+}
+
+ul li {
+    list-style: none;
+    margin-left: -4%;
+}
+
+.imgPerfil {
+    border-radius: 50%;
+    display: block;
+    margin: left;
+}
+
+.imgBanner {
+    border-radius: 1%;
+    display: block;
+    margin: auto;
+}
+
+.name {
+    font-size: 3.5rem;
+    text-align: center;
+}
+.lastName {
+    font-size: 3.5rem;
+    text-align: center;
+    color: blue;
+}
